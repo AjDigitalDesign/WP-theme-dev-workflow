@@ -1,0 +1,25 @@
+{
+  "name": "wordpress-dev",
+  "version": "1.0.0",
+  "description": "WordPress theme development workflow using GULP, SASS, NPM, Browerify",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?."
+  },
+  "keywords": [
+    "GULP",
+    "SASS",
+    "Wordpress"
+  ],
+  "author": "AJ Jardiah Jr",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
