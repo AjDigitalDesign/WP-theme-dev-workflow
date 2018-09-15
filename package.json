@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "?."
+    "url": "https://github.com/AjDigitalDesign/WP-theme-dev-workflow.git"
   },
   "keywords": [
     "GULP",
@@ -20,6 +20,15 @@
   "devDependencies": {
     "browser-sync": "^2.24.7",
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1"
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "ins": "0.0.0",
+    "jshint": "^2.9.6"
   }
 }
